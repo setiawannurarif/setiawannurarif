@@ -39,4 +39,4 @@
 [twitter]: https://twitter.com/setiawannurarif
 [discord]: https://discord.com/invite/2RHN4X4
 [instagram]: https://www.instagram.com/setiawannurarif/
-[linkedin]: https://www.linkedin.com/in/nur-arif-setiawan-141547186/
+[linkedin]: https://www.linkedin.com/in/setiawannurarif/
