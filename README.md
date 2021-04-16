@@ -18,6 +18,7 @@
 [<img align="left" alt="setiawannurarif | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="setiawannurarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="setiawannurarif | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="setiawannurarif | Email" width="22px" src="https://simpleicons.org/icons/microsoftoutlook.svg" />][email]
 
 <br />
 
@@ -40,3 +41,4 @@
 [discord]: https://discord.com/invite/2RHN4X4
 [instagram]: https://www.instagram.com/setiawannurarif/
 [linkedin]: https://www.linkedin.com/in/setiawannurarif/
+[email]: mailto:nurarifsetiawan@outlook.com
