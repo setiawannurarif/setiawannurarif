@@ -41,4 +41,4 @@
 [discord]: https://discord.com/invite/2RHN4X4
 [instagram]: https://www.instagram.com/setiawannurarif/
 [linkedin]: https://www.linkedin.com/in/setiawannurarif/
-[email]: mailto:nurarifsetiawan@outlook.com
+[email]: mailto:nurarifsetiawan@outlook.com?subject=Hallo
