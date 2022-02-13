@@ -7,7 +7,7 @@
 
 - 1️⃣ Aku suka belajar hal baru, termasuk ngekoding
 - 2️⃣ Aplikasi pertama yang aku buat: [Discord API!][discord]
-- 3️⃣ Target 2021: Bisa dapet kerjaan, Amin 👐 😭
+- 3️⃣ Target 2022: Bisa dapet kerjaan, Amin 👐 😭
 - 4️⃣ Fun fact: Aku kalo lagi pusing malah ngekoding 😃
 - 5️⃣ Aku lagi belajar HTML, CSS, PHP, Laravel, Java, & Kotlin, semoga bisa kelar tahun ini 😅
 - 6️⃣ Project yang lagi aku bikin sekarang 2021: Website Portofolio
