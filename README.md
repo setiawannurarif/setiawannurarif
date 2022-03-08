@@ -10,7 +10,7 @@
 - 3️⃣ Target 2022: Bisa dapet kerjaan, Amin 👐 😭
 - 4️⃣ Fun fact: Aku kalo lagi pusing malah ngekoding 😃
 - 5️⃣ Aku lagi belajar HTML, CSS, PHP, Laravel, Java, & Kotlin, semoga bisa kelar tahun ini 😅
-- 6️⃣ Project yang lagi aku bikin sekarang 2021: Website Portofolio
+- 6️⃣ Project yang lagi aku bikin sekarang 2022: Website Portofolio
 
 ### Connect with me:
 
