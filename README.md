@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/setiawannurarif?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsetiawannurarif&screen_name=setiawannurarif)
 [![Website](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg/2RHN4X4)](https://discord.com/invite/2RHN4X4)
 
-## Aku Fresh Graduate Sarjana Akuntansi, tapi punya hobi ngoding 😄
+## Aku Fresh Graduate Sarjana Akuntansi, tapi punya hobi ngoding.
 
 - 1️⃣ Aku suka belajar hal baru, termasuk ngekoding
 - 2️⃣ Aplikasi pertama yang aku buat: [Discord API!][discord]
