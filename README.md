@@ -6,7 +6,7 @@
 ## Aku Fresh Graduate Sarjana Akuntansi, tapi punya hobi ngoding.
 
 - 1️⃣ Aku suka belajar hal baru, termasuk ngekoding
-- 2️⃣ Aplikasi pertama yang aku buat: [Discord API!][discord]
+- 2️⃣ Aplikasi pertama yang aku buat: [Discord BOT!][discord]
 - 3️⃣ Target 2022: Bisa dapet kerjaan, Amin 👐 😭
 - 4️⃣ Fun fact: Aku kalo lagi pusing malah ngekoding 😃
 - 5️⃣ Aku lagi belajar HTML, CSS, PHP, Laravel, Java, & Kotlin, semoga bisa kelar tahun ini 😅
